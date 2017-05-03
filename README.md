@@ -1,3 +1,8 @@
+# Update
+**This repository was an example for the [RxSwift issue #1066](https://github.com/ReactiveX/RxSwift/issues/1066)**. This
+issue is now fixed.
+
+# Original description
 Minimal example for a setup of a macOS application where RxSwift is installed via the Swift package manager.
 
 Unfortunately building the macOS application fails.
